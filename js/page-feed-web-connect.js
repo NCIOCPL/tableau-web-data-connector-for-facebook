@@ -1,6 +1,6 @@
-var APP_ID = '1028645180580861'; //Facebook APP ID
+var APP_ID = '126144518093809'; //Facebook APP ID
 var LIMIT = 100; //Number of records to bring back at any time - MAX 100
-var BASEURL = 'https://www.sorendam.com/tableau/facebook/'; //base url of virtual directory
+var BASEURL = 'https://nciocpl.github.io/tableau-web-data-connector-for-facebook/'; //base url of virtual directory
 var CONNECTION_NAME = 'Facebook page feed';
 window.fbAsyncInit = function() {
     FB.init({
