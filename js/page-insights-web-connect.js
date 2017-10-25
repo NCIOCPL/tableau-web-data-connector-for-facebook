@@ -1,6 +1,6 @@
-var APP_ID = '1028645180580861'; //Facebook APP ID
+var APP_ID = '126144518093809'; //Facebook APP ID
 var LIMIT = 100; //Number of records to bring back at any time - MAX 100
-var BASEURL = 'https://www.sorendam.com/tableau/facebook/'; //base url of virtual directory
+var BASEURL = 'https://nciocpl.github.io/tableau-web-data-connector-for-facebook/'; //base url of virtual directory
 var CONNECTION_NAME = 'Facebook page insight';
 var START_DAY = 1293840000; // 01/01/2011 // note there is a bug with this currently. Need to check up on this...
 var today = new Date();
